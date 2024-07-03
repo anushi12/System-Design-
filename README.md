@@ -6,4 +6,4 @@ This repository is for system design. I learn new things daily and blog it down.
 - [Back of Envelope Calculation aka Capacity Estimation](https://oreosblog.hashnode.dev/back-of-envelope-calculation)
 - [What are HTTP and HTTPs Protocol?](https://oreosblog.hashnode.dev/what-are-http-and-https-protocol)
 - [TCP Model](https://oreosblog.hashnode.dev/tcptransmission-control-protocol-model)
-- [Trade-offs in System design](https://www.geeksforgeeks.org/how-to-design-a-read-heavy-system/?ref=previous_article)
+- [Trade-offs in System design](https://www.geeksforgeeks.org/tradeoffs-in-system-design/)
