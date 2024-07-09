@@ -7,3 +7,4 @@ This repository is for system design. I learn new things daily and blog it down.
 - [What are HTTP and HTTPs Protocol?](https://oreosblog.hashnode.dev/what-are-http-and-https-protocol)
 - [TCP Model](https://oreosblog.hashnode.dev/tcptransmission-control-protocol-model)
 - [Trade-offs in System design](https://www.geeksforgeeks.org/tradeoffs-in-system-design/)
+- [Why does Thrashing Occurs](https://oreosblog.hashnode.dev/why-does-trashing-occurs)
