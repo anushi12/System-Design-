@@ -9,3 +9,4 @@ This repository is for system design. I learn new things daily and blog it down.
 - [Trade-offs in System design](https://www.geeksforgeeks.org/tradeoffs-in-system-design/)
 - [Why does Thrashing Occurs](https://oreosblog.hashnode.dev/why-does-trashing-occurs)
 - [Serverless Architecture](https://oreosblog.hashnode.dev/serverless-architecture)
+- [Event-Driven Architecture](https://oreosblog.hashnode.dev/event-driven-architecture)
