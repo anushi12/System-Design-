@@ -11,3 +11,6 @@ This repository is for system design. I learn new things daily and blog it down.
 - [Serverless Architecture](https://oreosblog.hashnode.dev/serverless-architecture)
 - [Event-Driven Architecture](https://oreosblog.hashnode.dev/event-driven-architecture)
 - [Peer-to-peer Architecture](https://oreosblog.hashnode.dev/peer-to-peer-architecture)
+
+### Interview Preparation
+- [Design URL shortener](https://oreosblog.hashnode.dev/design-a-url-shortener-like-tinyurl)
